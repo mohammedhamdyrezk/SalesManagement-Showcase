@@ -29,7 +29,7 @@ This project provides a centralized digital solution to replace manual bookkeepi
 *Here are some screenshots of the application in action:*
 
 **Main Dashboard:**
-![Main Dashboard]([URL_to_your_screenshot_1.png](https://github.com/mohammedhamdyrezk/SalesManagement-Showcase/blob/main/dafter1.png)
+![Main Dashboard](https://github.com/mohammedhamdyrezk/SalesManagement-Showcase/blob/main/dafter1.png)
 
 **Add New Transaction Form:**
 ![Add New Transaction Form](https://github.com/mohammedhamdyrezk/SalesManagement-Showcase/blob/main/dafter4.png)
